@@ -1,0 +1,10 @@
+its like an alternative of REST APIs.
+
+packages used in this project.
+npm i express express-graphql graphql mongoose cors colors nodemon dotenv 
+
+
+
+
+graph ql gist repo
+https://gist.github.com/bradtraversy/fc527bc9a4659ab8de8e8066f3498723
